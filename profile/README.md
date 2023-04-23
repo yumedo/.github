@@ -1,6 +1,6 @@
 # YUMEDO -
 
-![banner yumedo](./banner-purple-yumedo.jpg)
+![banner yumedo](./profile/banner-purple-yumedo.jpg)
 
 ## Qui sommes-nous ?
 
