@@ -1,3 +1,6 @@
-# YUMEDO
+# YUMEDO -
 
-Protect your dreams
+![banner yumedo](../media/banner-purple-yumedo.jpg)
+
+## Qui sommes-nous ?
+
